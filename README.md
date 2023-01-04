@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=yellow&height=250&section=header&text=Jinhyeok%20Heo&fontSize=70&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Jinhyeok%20Heo&fontSize=70&animation=scaleIn)
 
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
